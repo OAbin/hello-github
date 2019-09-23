@@ -10,6 +10,5 @@ public class HelloWorld {
         System.out.println("hello github!");
         System.out.println("i am crazy!");
         System.err.println("i am continue crazy!!!");
-        System.out.println("test");
     }
 }
